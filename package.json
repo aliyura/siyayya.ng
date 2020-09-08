@@ -1,0 +1,26 @@
+{
+  "name": "siyayya.ng",
+  "version": "1.0.0",
+  "description": "Buy and Advertise Products Online",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Syrol Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.5",
+    "escape-html": "^1.0.3",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "http-proxy-middleware": "^1.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.5.8",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4",
+    "uuid": "^8.3.0"
+  }
+}
