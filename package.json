@@ -10,7 +10,7 @@
   "author": "Syrol Technologies",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.5",
     "escape-html": "^1.0.3",
